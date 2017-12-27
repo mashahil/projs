@@ -1,0 +1,201 @@
+.prt2{
+	background:linear-gradient(to top,#c1cbf5,#fefeff);
+
+
+
+}
+
+.prt21{
+
+	vertical-align: top;
+	text-align: center;
+}
+.prt211{
+	margin-top: 50px;
+	vertical-align: top;
+	margin-left: 100px;
+	font-family: arial;
+
+	width: 500px;
+
+}
+.imgprt{
+
+    color: #0e385f;
+    font-size: 21px;
+    
+    font-weight: bold;
+
+   
+
+ }
+ .frgt{
+ 	color: #9cb4d8;
+ 	font-size: 12px;
+ }
+
+.top{
+
+background-color:#3b5998;
+ height:80px;
+
+}
+.lg{
+	color: white;
+	background-color: #257fcd;
+	border:none;
+	width: 59px;
+	height: 25px;
+	
+}
+.en{
+	font-size: 8px;
+	color: red;
+}
+label{
+	color: white;
+	font-family: arial;
+	font-size: 13px;
+}
+
+#reg{
+	float: right;
+
+
+
+width: 590px;
+height: 555px auto;
+
+font-family: arial;
+
+}
+.foot{
+	padding-top: 20px;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 28px;
+}
+h2{
+	font-size: 16px;
+
+}
+#regfr{
+	width: 401px;
+	
+}
+#bh{
+	text-align: left;
+	font-size: 16px;
+}
+input[class="rg"]{
+	border-radius: 5px;
+	border-color: #c3ccdb;
+	padding: 10px 8px;
+	height: 39px;
+	font:14px arial;
+	font-color: transparent;
+	font-style: inherit;
+}
+select{
+	border-radius: 3px;
+	height: 30px;
+}
+#mob{
+	width: 391px;
+}
+
+#ln{
+	width: 195px;
+	
+	}
+
+}
+#fn{
+	width: 195px;
+	
+
+	
+
+}
+#np{
+	width: 391px;
+}
+#why{
+color: #3658a1;
+font-size: 10px;
+font-weight: 400;
+
+
+}
+#term{
+	font-size: 10px;
+	color:#777799;
+	
+}
+#butn{
+		margin-top: 10px;
+
+		
+		text-align: center;
+		width: 210px;
+		height: 40px;
+		padding: 7px 20px;
+		display: inline-block;
+	
+		font-family: inherit;
+		font-size: 19px;
+
+		font-weight: bold;
+		color: white;
+		background-image: linear-gradient(#67ae55 ,#578843 );
+		background-color: #69a74e;
+		border-color: #3b6e22;
+		border-width: 1px;
+		border-radius: 5px;
+
+}
+
+
+.but{
+	padding-top: 20px;
+}
+a:hover,#why:hover{
+text-decoration: underline;
+	}
+	a{
+		text-decoration: none;
+	}
+	h4{
+		
+				font-color: #666666;
+	}
+	#gender{
+		padding: 3px 10px;
+		height: 38px;
+	}
+	#bh{
+		height:40px;
+	}
+	#dt{
+		height:30px;
+	}
+	.butn{
+		height: 70px;
+	}
+	.yea{
+		margin-left: -4px;
+	}
+	#Ef,#psf{
+		
+		border: 1px solid black;
+
+	}
+	.lk{
+		font-size: 12px;
+		text-align: center;
+		color: red;
+		padding-left: 5px;
+	}
+	
