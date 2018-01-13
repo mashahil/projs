@@ -49,11 +49,12 @@ function vald(){
 		x=0;
 	}
 	if(x==1){
-		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-		var emt=document.getElementById('mob');
-		if(!filter.test(emt.value)){
-			alert("Please provide valid Email address");
-			emt.focus();
+		var atpos = drc.indexOf("@");
+    var dotpos = drc.lastIndexOf(".");
+    if (atpos<1 || dotpos<atpos+2 || dotpos+2>=drc.length) {
+        alert("Not a valid e-mail address");
+        
+    }
 		}
 	}
 }
